@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Just fucking about trying to figure out how ruby on rails works basically.
+Figured after 3 years it would be nice if i could actually do some programming
 
-Things you may want to cover:
+* Ruby version: 5.4.1 I think?
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* I'll add stuff as i think of it, or more likely i just wont
